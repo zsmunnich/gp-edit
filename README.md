@@ -14,26 +14,26 @@
 Create Improved Graphic Design Using VECTR-Part II
 ```
 
-- https://bit.ly/369XAId
+-  https://tinyurl.com/sbasu1
 
 ```
 Creating Custom Vector Graphic Design Using VECTR : Part I
 ```
 
-- https://bit.ly/3c794zV
+-  https://tinyurl.com/sbasu
 
 ```
 Creating designs using Canva
 ```
 
-- https://bit.ly/3qTfh6L
+-  https://tinyurl.com/sbasu2
 
 ```
 Web page creation by editing a template in GitHub
 
 ```
 
-- https://bit.ly/2Mc5oST
+-  https://tinyurl.com/sbasu3
 
 ## Courses
 
@@ -41,7 +41,7 @@ Web page creation by editing a template in GitHub
 Creating Custom Vector Graphic Design Using VECTR
 ```
 
-- https://bit.ly/3inGnjl
+-  https://tinyurl.com/sbasu4
 
 ### Thank You.
 
